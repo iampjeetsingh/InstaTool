@@ -10,14 +10,14 @@ It uses selenium to automate this process.
 # How to use?
 1.) Install python3 and google chrome if you don't already have them
 2.) Install selenium with pip by running the commands in terminal/command prompt.
-   # Linux/MAC
+   ### Linux/MAC
    pip3 install selenium
-   # Windows
+   ### Windows
    pip install selenium
 3.) Run insta-tool as follow
-   # Linux/MAC
+   ### Linux/MAC
    python3 insta-tool.py
-   # Windows
+   ### Windows
    python insta-tool.py
    
    Note : Change your working directory to the directory where you cloned this repository before running the above commands.
